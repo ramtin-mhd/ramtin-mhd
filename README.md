@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React project<br>👯 I’m looking to collaborate on front-end and ML<br>🤝 I’m happy to work with others
+🔭 I’m currently working on a React project<br>👯 I’m looking to collaborate on front-end<br>🤝 I’m happy to work with others
 
 
 ## 🌐 Socials:
